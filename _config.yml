@@ -95,10 +95,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: pure
 
-# config
-config:
-  skin: theme-black # 主题颜色 theme-black theme-blue theme-green theme-purple
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
