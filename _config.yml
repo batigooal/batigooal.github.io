@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Forever Batigol
+subtitle: 'batigol's blog'
+description: '记录点滴'
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +93,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: pure
+
+# config
+config:
+  skin: theme-black # 主题颜色 theme-black theme-blue theme-green theme-purple
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
