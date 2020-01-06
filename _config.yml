@@ -1,3 +1,7 @@
+# @Author: Your name
+# @Date:   2020-01-07 01:10:30
+# @Last Modified by:   Your name
+# @Last Modified time: 2020-01-07 01:10:46
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -93,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: pure
+theme: custom-pure
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
