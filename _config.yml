@@ -1,17 +1,17 @@
 # @Author: Your name
 # @Date:   2020-01-07 01:10:30
 # @Last Modified by:   Your name
-# @Last Modified time: 2020-01-07 01:10:46
+# @Last Modified time: 2020-01-07 09:27:46
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
 title: Forever Batigol
-subtitle: ''
-description: ''
+subtitle: 巴蒂的世界
+description: 记录不惑
 keywords:
-author: John Doe
+author: batigol zhang
 language: zh-CN
 timezone: ''
 
